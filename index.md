@@ -9,9 +9,6 @@ region: Asia/Pacific
 
 auto-migrated: 1
 
-## Welcome
--------
-Welcome to Sanaa chapter homepage.
 
 ---
 
