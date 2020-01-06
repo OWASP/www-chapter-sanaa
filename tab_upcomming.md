@@ -3,7 +3,7 @@ title: Upcoming Meetups
 layout:  null
 tab: true
 order: 2
-tags: Upcoming
+tags: Upcoming meetus
 ---
 
 ## الاجتماعات القادمة
