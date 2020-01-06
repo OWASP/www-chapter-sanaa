@@ -6,11 +6,11 @@ order: 2
 tags: Upcoming meetus
 ---
 
-## الاجتماعات القادمة
+## Upcoming Meetups
 
-هنا سوف تجد الاجتماعات التي سوف نقيمها مع التاريخ وموضوع الاجتماع
+Stay Tuned...
 
-الرجاء متابعة صفحاتنا على
+Please follow our Pages
 
 [Meetup](https://www.meetup.com/OWASP-Sanaa-Chapter/)
 
