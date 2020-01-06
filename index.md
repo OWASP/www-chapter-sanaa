@@ -2,13 +2,10 @@
 
 layout: col-sidebar
 title: OWASP Sanaa
-tags: example-tag
+tags: Sanaa
 level: 0
 
 region: Asia/Pacific
-
-auto-migrated: 1
-
 
 ---
 
