@@ -5,7 +5,7 @@ title: OWASP Sanaa
 tags: Sanaa
 level: 0
 
-region: Asia/Pacific
+region: Asia
 
 ---
 
