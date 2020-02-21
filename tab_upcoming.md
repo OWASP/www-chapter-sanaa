@@ -1,9 +1,12 @@
 ---
-title: Upcoming Meetups
+
+title: upcoming
+displaytext: Upcoming Meetups
 layout:  null
 tab: true
 order: 2
-tags: Upcoming meetus
+tags: sanaa
+
 ---
 
 ## Upcoming Meetups
