@@ -6,6 +6,9 @@ tags: Sanaa
 level: 0
 
 region: Asia
+meetup-group: OWASP-Sanaa-Chapter
+country: Yemen
+postal-code: 
 
 ---
 
