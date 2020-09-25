@@ -17,6 +17,8 @@ tags: Sanaa
 
 ### OWASP Sanaa Chapter Meeting ###
 
+### OWASP Sanaa Decmeber 2019 Meeting ###
+
 **When:** 05 Decmeber 2019
 
 **Where:** AlMahata Business Incubator
@@ -34,6 +36,8 @@ Workshop Outline: one session
 
 **Presenter:**
 Fadi AlAswadi
+
+### OWASP Sanaa September 2020 Meeting ###
 
 **When:** 24 September 2020
 
