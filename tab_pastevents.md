@@ -35,4 +35,21 @@ Workshop Outline: one session
 **Presenter:**
 Fadi AlAswadi
 
+**When:** 24 September 2020
+
+**Where:** Online (Google Meet)
+
+Pwning AWS and Azure Environment: An Introduction to Cloud Pentesting and Red teaming  through AWS and Azure common  misconfigurations
+**Program:**
+Workshop Outline: one session
+
+**Program:**
+Workshop Outline: one session
+
+- Introduction about Cloud Computing:              16:00 - 16:30
+- Pentesting Microsoft Azure   16:15 - 17:30
+
+**Presenter:**
+Rami Ahmed
+
 [Back to Top](#past-events)
