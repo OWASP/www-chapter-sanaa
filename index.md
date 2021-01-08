@@ -14,7 +14,7 @@ postal-code:
 
 #Welcome
 
-Welcome to OWASP Sanaa chapter homepage. The chapter Leader is [Fadi Al-Aswadi](mailto:fadi.alaswadi@owasp.org)
+Welcome to OWASP Sanaa chapter homepage. The chapter Leader is [Fadi Al-Aswadi](mailto:fadi.alaswadi@owasp.org) and [Rami Ahmed](mailto:rami.ahmed@owasp.org)
 
 Follow chapter news on [Meetup](https://www.meetup.com/OWASP-Sanaa-Chapter/) | [Facebook](https://www.facebook.com/owaspsanaa) | [twitter](https://twitter.com/owaspsanaa)
 
