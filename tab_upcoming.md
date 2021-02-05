@@ -11,7 +11,19 @@ tags: Sanaa
 
 ## Upcoming Meetups
 
-Stay Tuned...
+### OWASP Sanaa February 2021 Meeting ###
+
+**When:** 06 February 2021
+
+**Where:** Online
+
+Introduction to cyber security paths and domains
+
+**Register Now**
+ [Meetup Register](https://www.meetup.com/OWASP-Sanaa-Chapter/events/276170249/)
+
+**Presenter:**
+Fadi AlAswadi & Rami Ahmed
 
 Please follow our Pages
 
