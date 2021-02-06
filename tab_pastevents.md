@@ -45,7 +45,7 @@ Fadi AlAswadi
 
 Pwning AWS and Azure Environment: An Introduction to Cloud Pentesting and Red teaming  through AWS and Azure common  misconfigurations
 
-- Presention File : [Download] (https://github.com/OWASP/www-chapter-sanaa/blob/master/owasp_session_2.pdf)
+- Presention File : [Download](https://github.com/OWASP/www-chapter-sanaa/blob/master/owasp_session_2.pdf)
 **Program:**
 Workshop Outline: one session
 
@@ -66,7 +66,7 @@ Rami Ahmed
 
 Introduction to cybersecurity: Careers, Paths and Domains
 
-- Presention File : [Download] (https://github.com/OWASP/www-chapter-sanaa/blob/master/owasp_3_session.pdf)
+- Presention File : [Download](https://github.com/OWASP/www-chapter-sanaa/blob/master/owasp_3_session.pdf)
 
 **Program:**
 Workshop Outline: one session
