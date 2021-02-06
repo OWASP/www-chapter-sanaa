@@ -44,6 +44,8 @@ Fadi AlAswadi
 **Where:** Online (Google Meet)
 
 Pwning AWS and Azure Environment: An Introduction to Cloud Pentesting and Red teaming  through AWS and Azure common  misconfigurations
+
+- Presention File : [Download] (https://github.com/OWASP/www-chapter-sanaa/blob/master/owasp_session_2.pdf)
 **Program:**
 Workshop Outline: one session
 
@@ -55,5 +57,34 @@ Workshop Outline: one session
 
 **Presenter:**
 Rami Ahmed
+
+### OWASP Sanaa February 2021 Meeting ###
+
+**When:** 06 February 2021
+
+**Where:** Online (Google Meet)
+
+Introduction to cybersecurity: Careers, Paths and Domains
+
+- Presention File : [Download] (https://github.com/OWASP/www-chapter-sanaa/blob/master/owasp_3_session.pdf)
+
+**Program:**
+Workshop Outline: one session
+
+**Program:**
+Workshop Outline: one session
+
+- Introduction to cybersecurity: Careers, Paths and Domains
+
+**Presenter:**
+Rami Ahmed
+
+## Meetings / Events
+
+# OWASPSanaa-materials
+This repository contains all materials discussed at OWASP sanaa's sessions and meetings. 
+
+
+
 
 [Back to Top](#past-events)
