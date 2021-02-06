@@ -46,6 +46,7 @@ Fadi AlAswadi
 Pwning AWS and Azure Environment: An Introduction to Cloud Pentesting and Red teaming  through AWS and Azure common  misconfigurations
 
 - Presention File : [Download](https://github.com/OWASP/www-chapter-sanaa/blob/master/owasp_session_2.pdf)
+
 **Program:**
 Workshop Outline: one session
 
